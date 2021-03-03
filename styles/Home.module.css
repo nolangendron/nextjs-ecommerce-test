@@ -127,3 +127,19 @@
     flex-direction: column;
   }
 }
+
+.button {
+  background-color: #0ca948;
+  color: white;
+  font-family: inherit;
+  font-size: .9em;
+  font-weight: 700;
+  padding: .8em 1.4em;
+  border-radius: .2em;
+  border: 0;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: .8;
+}
