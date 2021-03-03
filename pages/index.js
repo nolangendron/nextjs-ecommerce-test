@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The Lorem Ipsum Shop, ßyo
+          The Lorem Ipsum Shop
         </h1>
 
         <ul className={styles.grid}>
